@@ -37,7 +37,7 @@ VirtualKeys.inc	Keyboard code definitions file, used by Irvine32.inc
 
 <br>
 <div align=center>
-<img src="./res/buildsuccess.png" width="70%" height="70%" title="start without debug"></img>  
+<img src="./res/buildsuccess.png" width="100%" height="100%" title="start without debug"></img>  
 </div>
 <br>
 
@@ -45,7 +45,7 @@ VirtualKeys.inc	Keyboard code definitions file, used by Irvine32.inc
 如果需要查看寄存器值、内存视图、调用堆栈可以打开对应窗口:  
 <br>
 <div align=center>
-<img src="./res/debuginfo.png" width="70%" height="70%" title="start without debug"></img>  
+<img src="./res/debuginfo.png" width="100%" height="100%" title="start without debug"></img>  
 </div>
 <br>
 
