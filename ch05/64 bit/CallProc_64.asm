@@ -1,6 +1,8 @@
 ; Calling a subroutine in 64-bit mode			(CallProc_64.asm)
 
 extrn ExitProcess: PROC
+WriteInt64 PROTO          ; Irvine64链接库
+Crlf PROTO                ; Irvine64链接库
 
 .code
 main proc
@@ -12,6 +14,8 @@ main proc
 	mov  r8,3
 	mov  r9,4
 	call AddFour		; look for return value in RAX
+	call WriteInt64     ; 显示数字
+	call Crlf           ; 输入换行符
 
 	mov  ecx,0
 	call ExitProcess

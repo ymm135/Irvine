@@ -1,5 +1,22 @@
 ## 汇编语言 基于x86处理器(原书第7版) 随书代码
-[官方网站](http://www.asmirvine.com/index6th.htm)
+[书籍官方网站](http://www.asmirvine.com/index6th.htm)  
+[intel x86 官方指导](https://software.intel.com/content/www/us/en/develop/articles/introduction-to-x64-assembly.html)  
+[x86 汇编概览](https://www.cs.virginia.edu/~evans/cs216/guides/x86.html)  
+[x86与amd64指令 x86 and amd64 instruction reference](https://www.felixcloutier.com/x86/)  
+
+<br>
+<div align=center>
+<span>x86通用架构</span><br>
+<img src="./res/x86通用架构.png" width="80%" height="80%" title="x86通用架构"></img>  
+</div>
+<br>
+
+<br>
+<div align=center>
+<span>指令概览</span><br>
+<img src="./res/通用指令.PNG" width="80%" height="80%" title="常用指令"></img>  
+</div>
+<br>
 
 ### vs工程及Debug
 ####  vs工程
@@ -39,3 +56,5 @@
 </div>
 <br>
 
+- [第四章 数据传送、寻址和算数运算](./ch04/README.md)
+- [第四章 过程](./ch05/README.md)
