@@ -19,6 +19,13 @@
 <br>
 
 ### vs工程及Debug
+[官方提供的工程](http://www.asmirvine.com/gettingStartedVS2015/index.htm)  
+- [Project32_VS2015.zip](Project32_VS2015.zip)  
+- [Project64_VS2015.zip](Project64_VS2015.zip)  
+
+> vs安装时需要选择`visual c++`相关功能  
+
+
 ####  vs工程
 首先需要把依赖库放在C:\Irvine位置,如果更换，需要更改工程中依赖库路径.  
 <br>
@@ -50,6 +57,13 @@
 
 
 如果需要查看寄存器值、内存视图、调用堆栈可以打开对应窗口:  
+
+<br>
+<div align=center>
+<img src="./res/debug-window.png" width="100%" height="100%" title="start without debug"></img>  
+</div>
+<br>
+
 <br>
 <div align=center>
 <img src="./res/debuginfo.png" width="100%" height="100%" title="start without debug"></img>  
