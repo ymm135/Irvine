@@ -72,3 +72,5 @@
 
 - [第四章 数据传送、寻址和算数运算](./ch04/README.md)
 - [第四章 过程](./ch05/README.md)
+
+## [ :point_right: 可用于快速复习的读书笔记 :thumbsup: :thumbsup: ](readbook.md)  
